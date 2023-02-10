@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-ramola&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-ramola" /> </p>
 
-- 🔭 I’m currently working on **My POrtfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **react.js**
 
