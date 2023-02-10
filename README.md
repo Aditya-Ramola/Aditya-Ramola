@@ -1,3 +1,4 @@
+[![MasterHead]https://www.webdesignerdepot.com/cdn-origin/uploads/2013/04/Ceric4.gif]
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Web Developer and android dev enthusiast</h3>
 
