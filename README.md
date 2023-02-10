@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer and Android dev enthusiast.</h3>
 <img align="right" alt="Aditya" width="400" src="https://imgs.search.brave.com/zTgO5B85ttAHLSHBi-1sZdgmIxSPfqGaPUZFvOXO5Uc/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEva283dHdI/aG9taGs4RS9naXBo/eS5naWY.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-ramola&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-ramola" /> </p>
+
 
 - 🔭 I’m currently working on **My Portfolio**
 
