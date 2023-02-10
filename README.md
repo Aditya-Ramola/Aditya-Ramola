@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-ramola&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-ramola" /> </p>
 
-- 🔭 I’m currently working on **something**
+- 🔭 I’m currently working on **My POrtfolio**
 
-- 🌱 I’m currently learning **goof thin**
+- 🌱 I’m currently learning **react.js**
 
 - 👯 I’m looking to collaborate on **here**
 
-- 🤝 I’m looking for help with **maybe something**
+- 🤝 I’m looking for help with **life**
 
 - 📫 How to reach me **workwithaditya001@gmail.com**
 
