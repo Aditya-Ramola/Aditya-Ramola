@@ -10,15 +10,17 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 My Portfolio [https://adityyaa-project.netlify.app/](https://adityyaa-project.netlify.app/)
+- 👨‍💻 [My Portfolio](https://adityyaa-project.netlify.app/)
 
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **workwithaditya001@gmail.com**
 
-- 📄 My Resume [Link](Link)
+- 📄 [My Resume](Link)
 
 - ⚡ Fun fact **I watch anime and listen to music**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
