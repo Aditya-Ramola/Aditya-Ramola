@@ -42,5 +42,5 @@
 <p align="center">
 <a href="https://twitter.com/adityaramola10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaramola10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya ramola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya ramola" height="30" width="40" /></a>
-<a href="https://discord.gg/! Adityyaa#5008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! Adityyaa#5008" height="30" width="40" /></a>
+<a href="https://discord.gg/adiiiiiiiiiiiiiiiiiiii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adiiiiiiiiiiiiiiiiiiii_" height="30" width="40" /></a>
 </p>
