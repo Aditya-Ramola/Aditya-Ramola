@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://adityyaa-project.netlify.app/)
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Github**
 
